@@ -1,5 +1,6 @@
 const functions = require('./functions')
 
+
 // beforeEach(() => initDatabase())
 // afterEach(() => closeDatabase())
 
